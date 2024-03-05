@@ -4,7 +4,7 @@ import matplotlib.pyplot as plt
 import seaborn as sns
 
 # Load data
-hour_df = pd.read_csv("https://raw.githubusercontent.com/yuandimianta/Bike-Sharing-Data-Analysis/main/data/hour.csv")
+hour_df = pd.read_csv("https://raw.githubusercontent.com/yuandimianta/Bike-Sharing-Data-Analysis/main/dashboard/hour.csv")
 
 # Set page title
 st.title("Bike Sharing Dashboard")
